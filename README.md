@@ -1,4 +1,4 @@
-
+![logo](fig/Phase_Field_3D.png)
 
 # Motivation:
 
